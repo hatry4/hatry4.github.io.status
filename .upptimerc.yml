@@ -1,31 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: hatry4 # Your GitHub organization or username, where this repository lives
+repo: hatry4.github.io.status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Hatry4
+    url: https://www.hatry4.xyz
+  - name: Kryptonite
+    url: https://kryptonite.tk
+  - name: Kryptonite-Bot
+    url: https://dev.kryptonite.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: www.status.hatry4.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png
+  baseUrl: /hatry4.github.io.status
+  theme: dark
+  logoUrl: https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png
+  name: Hatry4
+  introTitle: " "
+  introMessage: 
   navbar:
+    - title: Hatry4
+      href: www.hatry4.xyz
     - title: Status
-      href: /
+      href: https://www.status.hatry4.xyz
+    - title: Kryptonite
+      href: https://Kryptonite.tk
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/$OWNER/
+      
