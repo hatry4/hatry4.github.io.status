@@ -5,10 +5,10 @@ repo: hatry4.github.io.status # The name of this repository
 sites:
   - name: Hatry4
     url: https://www.hatry4.xyz
+  - name: Hatry4 - Docs
+    url: https://www.docs.hatry4.xyz
   - name: Kryptonite
     url: https://kryptonite.tk
-  - name: Kryptonite-Bot
-    url: https://dev.kryptonite.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +19,7 @@ status-website:
   baseUrl: /hatry4.github.io.status
   theme: dark
   logoUrl: https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png
-  name: Hatry4
+  name: 
   introTitle: " "
   introMessage: 
   navbar:
